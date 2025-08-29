@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>My ASD Site</title>
-  <id>https://maestro-uchiha.github.io/my-new-asd-site/</id>
-  <updated>2025-08-28T21:30:48Z</updated>
-  <link rel="self" href="https://maestro-uchiha.github.io/my-new-asd-site/atom.xml"/>
+  <title>Pod Life Daily</title>
+  <id>https://pod-life-daily.surge.sh/</id>
+  <updated>2025-08-29T21:25:13Z</updated>
+  <link rel="self" href="https://pod-life-daily.surge.sh/atom.xml"/>
 </feed>
